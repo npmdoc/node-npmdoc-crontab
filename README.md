@@ -1,6 +1,6 @@
 # npmdoc-crontab
 
-#### api documentation for  [crontab (v1.1.3)](https://github.com/dachev/node-crontab)  [![npm package](https://img.shields.io/npm/v/npmdoc-crontab.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-crontab) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-crontab.svg)](https://travis-ci.org/npmdoc/node-npmdoc-crontab)
+#### basic api documentation for  [crontab (v1.1.3)](https://github.com/dachev/node-crontab)  [![npm package](https://img.shields.io/npm/v/npmdoc-crontab.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-crontab) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-crontab.svg)](https://travis-ci.org/npmdoc/node-npmdoc-crontab)
 
 #### A module for reading, creating, deleting, manipulating, and saving system cronjobs with node.js
 
@@ -74,7 +74,8 @@
     "scripts": {
         "test": "test/runner.js"
     },
-    "version": "1.1.3"
+    "version": "1.1.3",
+    "bin": {}
 }
 ```
 
